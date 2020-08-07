@@ -1,6 +1,6 @@
 # New Relic integration for Paperbits
  
-This repository contains an integration with NewRelic (https://newrelic.com) - New Relic One is an observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything, then analyze, troubleshoot, and optimize your entire software stack. All from one place.
+This repository contains an integration with New Relic (https://newrelic.com) - an observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything, then analyze, troubleshoot, and optimize your entire software stack. All from one place.
 
 [![Join the chat at https://gitter.im/paperbits/discussions](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/paperbits/discussions)
 
